@@ -46,3 +46,10 @@ SELECT
     Distance (km),
     ROUND(Delivery Duration (min) / NULLIF(Distance (km), 0), 2) AS Calculated_Minutes_Per_KM
 FROM pizza_orders;
+
+📜 ##License
+📌 ###This project is licensed under the MIT License. See the LICENSE file for details.
+
+<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/ec045c06-d85d-4229-b308-89457b91c6bd" />
+
+
