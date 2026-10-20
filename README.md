@@ -7,6 +7,9 @@ This project demonstrates end-to-end data cleaning, standardization, and feature
 
 ---
 
+<img width="1337" height="741" alt="BI1" src="https://github.com/user-attachments/assets/581be5f9-1b6c-4862-a48e-690e8710a87d" />
+
+
 ## 🛠️ Dataset Schema & Features
 The dataset contains transaction, customer, and delivery details spanning multiple dimensions:
 * **Order Information:** `Order ID`, `Order_Time_Date`, `Order Hour`, `Is Peak Hour`, `Is Weekend`, `Order Month`
